@@ -1,14 +1,17 @@
-﻿
+
 body {
     background-color: lightgray;
 }
 hr {border-color:black;}
 h1{background-color:brown}
-h2 {
-    color: black
+
+h2{color:cornflowerblue;
+  
 }
+
+
 h3 {
-    color: black
+    color: cornflowerblue
 }
 .rounded {
     flex: none;
